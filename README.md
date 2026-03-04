@@ -16,8 +16,9 @@
 
 | 🎯 Degree | 🏫 Institution | 📅 Duration |
 | :--- | :--- | :--- |
-| **Master's in Business Intelligence & Big Data Analytics (BIBDA)** | Faculty of Sciences, El Jadida | 2024–2026 |
-| **BTS in IT Systems and Networks** | ISTA | Graduated |
+| **Master's in Business Intelligence & Big Data Analytics** | Faculty of Sciences, El Jadida | 2024–2026 |
+| **Licence in Big Data** | EST Fkih Ben Salah | 2023–2024 |
+| **BTS in IT Systems and Networks** | Lycée Al Idrissi, Agadir | 2021–2023 |
 
 ## 💻 Tech Stack
 
@@ -34,10 +35,11 @@
 | 🚀 Project | 📝 Description | 💻 Tech Stack |
 | :--- | :--- | :--- |
 | **[Crypto Sentiment MLOps Pipeline](https://github.com/regraisamia/roberta-crypto-sentiment-v2)** | End-to-end ETL pipeline fetching financial news, analyzing sentiment, and sending Telegram alerts. | Python, RoBERTa, n8n, Flask |
-| **[Al Manar Management System](https://github.com/regraisamia/StudX)** | Complete localized School Management ERP for vocational training centers with interactive dashboards. | Django, MySQL, Bootstrap 5 |
 | **[Analog Meter Reader (IoT + CV)](https://github.com/regraisamia/Analog-Meter-Reader-ESP32-CNN)** | Edge AI project using an ESP32-CAM to capture images and a custom CNN to digitize analog meter readings. | C++, Python, TensorFlow, OpenCV |
 | **[Papers Research Assistant](https://github.com/regraisamia/papers-research-assistant)** | AI-powered semantic search engine for arXiv scientific publications with interactive visual trends. | Streamlit, FAISS, SentenceTransformers |
 | **[News Recommendation System](https://github.com/regraisamia/news-recommendation)** | Content-based filtering engine using vector similarity to serve personalized news feeds. | FAISS, Pandas, HTML/JS |
+| **[Training center Management System](https://github.com/regraisamia/StudX)** | Complete localized School Management ERP for vocational training centers with interactive dashboards. | Django, MySQL, Bootstrap 5 |
+
 
 ## 📊 GitHub Stats
 
