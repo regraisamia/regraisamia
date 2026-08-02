@@ -33,13 +33,7 @@
 
 ## 🔥 Featured Projects
 
-| 🚀 Project | 📝 Description | 💻 Tech Stack |
-| :--- | :--- | :--- |
-| **[Crypto Sentiment MLOps Pipeline](https://github.com/regraisamia/roberta-crypto-sentiment-v2)** | End-to-end ETL pipeline fetching financial news, analyzing sentiment, and sending Telegram alerts. | Python, RoBERTa, n8n, Flask |
-| **[Analog Meter Reader (IoT + CV)](https://github.com/regraisamia/Analog-Meter-Reader-ESP32-CNN)** | Edge AI project used to capture images and a custom CNN to digitize analog meter readings. | Python, TensorFlow, EasyOCR |
-| **[Papers Research Assistant](https://github.com/regraisamia/papers-research-assistant)** | AI-powered semantic search engine for arXiv scientific publications with interactive visual trends. | Streamlit, FAISS, SentenceTransformers |
-| **[News Recommendation System](https://github.com/regraisamia/news-recommendation)** | Content-based filtering engine using vector similarity to serve personalized news feeds. | FAISS, Pandas, HTML/JS, OWL, Neo4j |
-| **[Training Center Management System](https://github.com/regraisamia/StudX)** | Complete localized School Management ERP for vocational training centers with interactive dashboards. | Django, MySQL, Bootstrap 5 |
+Check the repositories for all projects
 
 ## 📊 GitHub Stats
 
