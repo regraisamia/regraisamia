@@ -1,52 +1,132 @@
 # Hi there! 👋 I'm Samia Regrai
 
-📊 **Data Analyst & BI Engineer** | 🎓 **Master's Student in Business Intelligence & Big Data Analytics**
-📍 **El Jadida, Morocco** [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://personal-portfolio-nine-pi-32.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/regraisamia) 
-[![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:regraisamia1@gmail.com) 
+**AI & Data Science Graduate | PhD Researcher | Machine Learning & Computer Vision**
+
+📍 Morocco
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/regraisamia)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:regraisamia1@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=flat-square&logo=vercel&logoColor=white)](https://personal-portfolio-nine-pi-32.vercel.app/)
 
 ---
 
-## 🚀 About Me
-* **🔭 I’m currently working on:** my Master's degree in Business Intelligence & Big Data Analytics (BIBDA), focusing on scalable data solutions.
-* **👯 I’m looking to collaborate on:** Machine & Deep Learning (NLP), Data Engineering, MLOps, and interactive Business Intelligence / Data Visualization.
-* **💬 Ask me about:** Data Architecture, Predictive Modeling, Business Intelligence, and IT Infrastructure.
-* **⚡ Fun fact:** I started my tech journey configuring physical IT infrastructure, which gives me a unique architectural edge when building Big Data pipelines today.
+## 👩‍💻 About Me
+
+I'm an AI and Data Science graduate with a Master's degree in **Business Intelligence & Big Data Analytics**, currently pursuing doctoral research at **Chouaib Doukkali University – Faculty of Sciences, LAROSERI Laboratory**.
+
+My research focuses on multimodal AI for reliable medical image retrieval, combining visual representations with clinical metadata.
+
+I enjoy building intelligent systems that connect machine learning research with practical applications, from computer vision and NLP to data engineering and interactive applications.
+
+- 🔬 **Currently researching:** Multimodal AI for Reliable Content-Based Medical Image Retrieval (CBIR) and Clinical Metadata.
+- 🧠 **Research interests:** Medical Imaging, Computer Vision, Deep Learning, Representation Learning, Graph-Based Retrieval and Explainable AI.
+- 🛠️ **Working with:** Python, PyTorch, TensorFlow, SQL, FastAPI, Neo4j and data engineering tools.
+- 🤝 **Interested in collaborating on:** AI/ML research, computer vision, NLP, data science and open-source projects.
+
+---
 
 ## 🎓 Education
 
-| 🎯 Degree | 🏫 Institution | 📅 Duration |
-| :--- | :--- | :--- |
-| **Master's in Business Intelligence & Big Data Analytics** | Faculty of Sciences, El Jadida | 2024–2026 |
-| **Licence in Big Data** | EST Fkih Ben Salah | 2023–2024 |
-| **BTS in IT Systems and Networks** | Lycée Al Idrissi, Agadir | 2021–2023 |
+| Degree | Institution | Period |
+|---|---|---|
+| **PhD Research** – Multimodal AI & Medical Image Retrieval | Chouaib Doukkali University, Faculty of Sciences – LAROSERI | 2026–Present |
+| **Master's** – Business Intelligence & Big Data Analytics | Faculty of Sciences, Chouaib Doukkali University | 2024–2026 |
+| **Professional Bachelor's** – Big Data | EST Fkih Ben Salah, Sultan Moulay Slimane University | 2023–2024 |
+| **BTS** – Computer Systems & Networks | Lycée Technique Al-Idrissi, Agadir | 2021–2023 |
 
-## 💻 Tech Stack
+---
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+## 🚀 Featured Projects
 
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
+### 🔬 DermFinder – Medical Image Retrieval
+**Python · PyTorch · ResNet-50 · Vision Transformer · PCA · Graph-Based Retrieval**
 
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+A hybrid Content-Based Image Retrieval (CBIR) system for dermoscopic images, combining CNN and Vision Transformer representations with metric learning and graph-based search.
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
+- Achieved **0.9503 mAP@10** on the complete ISIC 2020 dataset.
+- Reduced feature memory footprint by **14.67×** through dimensionality reduction.
+- Accelerated retrieval by up to **5.91×** using graph-based indexing.
+- Integrated image upload, Top-K retrieval, clinical metadata and search history into a web application.
 
-## 🔥 Featured Projects
+### 🗺️ Multi-Agent Delivery Optimization
+**Python · CrewAI · Graph Algorithms**
 
-Check the repositories for all projects
+A multi-agent system for delivery assignment and route optimization, using GPS data, travel time and operational cost.
 
-## 📊 GitHub Stats
+### 📊 Crypto Sentiment MLOps Pipeline
+**Python · RoBERTa · Flask · n8n**
+
+An automated pipeline for data processing and sentiment analysis, with real-time Telegram notifications.
+
+### 📷 Analog Meter Reader
+**TensorFlow · EasyOCR · ESP32**
+
+An IoT and computer vision project for digitizing analog meter readings using an embedded CNN pipeline.
+
+---
+
+## 🧰 Tech Stack
+
+### Programming & Data Analysis
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=databricks&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
+### Artificial Intelligence & Computer Vision
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+### Big Data & Databases
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+### Backend, BI & Tools
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+---
+
+## 📜 Certifications
+
+- Neo4j Certified Professional
+- Neo4j Graph Data Science
+- HackerRank – Software Engineer & Problem Solving (Intermediate)
+- Kaggle – Feature Engineering, Data Cleaning & Data Visualization
+- freeCodeCamp – Data Analysis with Python
+- EF SET English Certificate – C1
+- DELF – B2
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=regraisamia&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=false" alt="regraisamia's GitHub stats" width="48%" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=regraisamia&theme=shadow_red&hide_border=false" alt="regraisamia's GitHub Streak" width="48%" />
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=regraisamia&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=regraisamia&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
+
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=regraisamia&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=regraisamia&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
 </div>
 
-### ✍️ Random Dev Quote
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</div>
+---
+
+## 📫 Let's Connect!
+
+I'm always interested in connecting with researchers, developers and people working on AI, data science and intelligent systems.
+
+**Feel free to explore my repositories and connect with me!**
